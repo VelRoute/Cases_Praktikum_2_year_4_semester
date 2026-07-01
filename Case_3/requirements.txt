@@ -1,3 +1,0 @@
-pymorphy3
-nltk
-python-telegram-bot
